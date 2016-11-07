@@ -1,14 +1,4 @@
-# Business Standard
- This is the url of
+# Drag and Drop Simple Example 
+ 
+ This is simple example of drag and drop. this is for personal use
 
- http://www.business-standard.com/rss-feeds/listing/
-
- working url
-
-  http://www.business-standard.com/rss/home_page_top_stories.rss
-
-
-
- ## How to convert XML to Java beans
-
-  http://pojo.sodhanalibrary.com/
